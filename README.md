@@ -17,6 +17,7 @@ https://www.sbert.net/
 
 Kaggle Shopee dataset:
 https://www.kaggle.com/c/shopee-product-matching/data 
+Download dataset and copy to appropriate path
 
 
 References:
